@@ -1,0 +1,20 @@
+# age = int(input("What is your age? " ))
+
+
+# if age > 100:
+#     print("God has blessed You")
+# elif age > 20 and age < 40:
+#     print("You are a youth")
+# else :
+#     print("You are a child")
+
+
+
+age = int(input("What is your age? "))
+
+if age >= 18:
+    print("You are an adult")
+elif age < 18 and age > 0:
+    print("You are a child")
+else :
+    print("You have not been born yet")
