@@ -1,0 +1,58 @@
+Question 1:
+
+# Given the following string, what will be the output of len(my_string)?
+my_string = "Hello, World!"
+a) 13
+b) 12
+c) 11
+d) 6
+
+Question 2:
+# Which of the following methods can be used to convert a string to uppercase?
+a) str.upper()
+b) str.uppercase()
+c) str.to_upper()
+d) str.capital()
+
+Question 3:
+# What is the result of the following expression?
+result = 10 + 5 * 2 - 3
+a) 14
+b) 12
+c) 9
+d) 15
+
+Question 4:
+# How can you check if a given variable 'num' is an integer?
+a) isinstance(num, int)
+b) type(num) == 'integer'
+c) num.is_integer()
+d) num.type() == int
+
+Question 5:
+# What will be the output of the following code?
+x = 10.5
+y = 2.5
+result = x + y
+print(result)
+a) 13.0
+b) 12.0
+c) 13.5
+d) 20
+
+Question 6:
+# Given the following variable 'pi', how can you convert it to an integer?
+pi = 3.14159
+a) int(pi)
+b) pi.to_int()
+c) int(pi.value)
+d) pi.integer()
+
+Question 7:
+# Which of the following is NOT a valid way to represent a floating-point number in Python?
+a) 3.14
+b) 3.0
+c) .14
+d) 3.14e2
+e) 3.14E2
+f) 3.14f
